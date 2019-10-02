@@ -9,3 +9,4 @@ metadata.db
 *.bak
 natlas-agent/natlas-services
 natlas-agent/data
+logs/
